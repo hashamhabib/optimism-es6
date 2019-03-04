@@ -1,0 +1,22 @@
+{
+  "name": "optimism-es6",
+  "version": "1.0.0",
+  "description": "Node.js optimism, for the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashamhabib/optimism-es6.git"
+  },
+  "keywords": [
+    "browserify"
+  ],
+  "author": "itshashamhabib@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hashamhabib/optimism-es6/issues"
+  },
+  "homepage": "https://github.com/hashamhabib/optimism-es6#readme"
+}
