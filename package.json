@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/hashamhabib/optimism-es6/issues"
   },
-  "homepage": "https://github.com/hashamhabib/optimism-es6#readme"
+  "homepage": "https://github.com/hashamhabib/optimism-es6#readme",
+  "dependencies": {
+    "immutable-tuple": "^0.4.10"
+  }
 }
